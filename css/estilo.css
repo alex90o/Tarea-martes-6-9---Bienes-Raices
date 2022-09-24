@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+}
+header {
+    background-color: #808080;
+    text-indent: 150px;
+    height: 250px;
+    width:auto;
+}
+#h1principal {
+    color: #fff;
+    font-size: 40px;
+    
+}
+
+#h2principal{
+    font-size: 40px;
+}
+
+main {
+    margin-left: 150px;
+    margin-right: 150px;
+    text-align: justify;
+}
+/*
+p {
+    display: block;
+    text-align: justify;
+}
+*/
+footer {
+    background-color: #65656F;
+    text-indent: 150px;
+    height: 40px;
+    width:auto;
+}
